@@ -1,0 +1,14 @@
+C:\D\Project\winform\MCBar\MCBar\bin\Debug\MCBar.exe.config
+C:\D\Project\winform\MCBar\MCBar\bin\Debug\MCBar.exe
+C:\D\Project\winform\MCBar\MCBar\bin\Debug\MCBar.pdb
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.csproj.AssemblyReference.cache
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.Form1.resources
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.Properties.Resources.resources
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.csproj.GenerateResource.cache
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.csproj.CoreCompileInputs.cache
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.exe
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.pdb
+C:\D\Project\winform\MCBar\MCBar\bin\Debug\System.CodeDom.dll
+C:\D\Project\winform\MCBar\MCBar\bin\Debug\System.CodeDom.xml
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.csproj.Up2Date
+C:\D\Project\winform\MCBar\MCBar\obj\Debug\MCBar.Items.resources
